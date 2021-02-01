@@ -1,0 +1,24 @@
+{
+  "name": "tf-js-polynomial-regress",
+  "version": "1.0.0",
+  "description": "Tensorflow.js Processing Polynomial Regression",
+  "main": "poly-regress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moisestech/tf-js-polynomial-regress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moisestech/tf-js-polynomial-regress/issues"
+  },
+  "homepage": "https://github.com/moisestech/tf-js-polynomial-regress#readme",
+  "devDependencies": {
+    "webpack": "^5.19.0",
+    "webpack-cli": "^4.4.0"
+  }
+}
