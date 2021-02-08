@@ -22,6 +22,9 @@
   },
   "homepage": "https://github.com/moisestech/tf-js-polynomial-regress#readme",
   "devDependencies": {
+    "@babel/core": "^7.12.13",
+    "@babel/plugin-transform-runtime": "^7.12.15",
+    "@babel/preset-env": "^7.12.13",
     "css-loader": "^5.0.1",
     "file": "^0.2.2",
     "style-loader": "^2.0.0",
