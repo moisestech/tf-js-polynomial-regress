@@ -1,21 +1,24 @@
 # Tensorflow.js Processing Polynomial Regression
 
-## **Interactive Shallow Neural Network!**
+## **Interactive Shallow Neural Network in Processing!**
 
 ## ⚙ Features
 
-- Tensorflow @2.8.5
-- P5.js
-- ES8
+- [Tensorflow @2.8.5](https://www.tensorflow.org/js/models)
+- [P5.js]()
+- [ES8](https://www.w3schools.com/js/js_2018.asp)
 
 ## 👁️‍🗨️ Project Preview
 
 Coming Soon!
 
-## 📚 HOW-TO
+## 🚀 Start
 
 To start app: `npm start`
-Fore additional info: []()
+
+## 📚 HOW-TO
+
+For additional info click [here]()
 
 ## 🗺 URL Tree
 
